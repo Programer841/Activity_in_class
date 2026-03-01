@@ -16,4 +16,6 @@ public class Main {
         System.out.println("Estudiar idiomas, musica y programacion de paginas web");
         System.out.println("Ajedrez");
         }
+        //ajhbcbnskcnsjldnvkjnjk
+        //ashcsdkcsdnknsdkv
     }
